@@ -1,0 +1,54 @@
+{
+   "organizations":[
+      {
+         "orgId":"c0a90105-7b52-1361-817b-52a536a20001",
+         "name":"JPL",
+         "email":"neil.holkar@ril.com",
+         "verified":1,
+         "status":1,
+         "createTimestamp":"2021-08-18 16:21:13",
+         "updateTimestamp":"2021-08-17 12:22:15",
+         "createBy":"EML-01ebada3-4ee7-17c0-b05c-af3c5b8c3930",
+         "updateby":"EML-01ebada3-4ee7-17c0-b05c-af3c5b8c3930"
+      },
+      {
+         "orgId":"c0a90105-7b58-149e-817b-58a1d9170000",
+         "name":"TEST ORG SIGNUP",
+         "email":"orgtest@ril.com",
+         "verified":1,
+         "status":1,
+         "createTimestamp":"2021-08-18 15:10:07",
+         "updateTimestamp":null,
+         "createBy":"MOB-01eba694-333d-1f08-9f30-fcbce54b1811",
+         "updateby":null
+      }
+   ],
+   "orgUser":[
+      {
+         "orgUserId":"OUI-01ebff5c-c315-1ec0-b430-df226afc659c",
+         "userId":"EML-01ebada3-4ee7-17c0-b05c-af3c5b8c3930",
+         "orgId":"c0a90105-7b52-1361-817b-52a536a20001",
+         "identifier":"neil.holkar@ril.com",
+         "role":1,
+         "status":2,
+         "identifierType":1,
+         "createBy":"EML-01ebada3-4ee7-17c0-b05c-af3c5b8c3930",
+         "updateBy":null,
+         "createTimestamp":"2021-08-17 11:16:05",
+         "updateTimestamp":null
+      },
+      {
+         "orgUserId":"OUI-01ec0037-22e0-1c58-b3d4-b4c429757bab",
+         "userId":"EML-01ebada3-4ee7-17c0-b05c-af3c5b8c3930",
+         "orgId":"c0a90105-7b58-149e-817b-58a1d9170000",
+         "identifier":"neil.holkar@ril.com",
+         "role":2,
+         "status":2,
+         "identifierType":1,
+         "createBy":"MOB-01eba694-333d-1f08-9f30-fcbce54b1811",
+         "updateBy":"EML-01ebada3-4ee7-17c0-b05c-af3c5b8c3930",
+         "createTimestamp":"2021-08-23 17:42:34",
+         "updateTimestamp":"2021-08-23 17:45:54"
+      }
+   ]
+}
