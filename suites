@@ -1,0 +1,995 @@
+[
+    {
+      "suiteId": "0a1410f0-7d0d-10c3-817d-0d714d200000",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0d-10c3-817d-0d716e240001",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": null,
+          "status": "Completed"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-10c3-817d-0d71761d0002",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "Error"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0d-10c3-817d-0d7190c50003",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0d-10c3-817d-0d7198530004",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-10c3-817d-0d719d2f0005",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0d-1603-817d-0d865c070000",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0d-1603-817d-0d8663fc0001",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1603-817d-0d8668660002",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0d-1603-817d-0d866b4d0003",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "2",
+      "display": 2,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0d-1603-817d-0d8672080004",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": "1234",
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1603-817d-0d8675ad0005",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1843-817d-0db89b790000",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1843-817d-0dba5df80008",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1843-817d-0dbbf59e000c",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1843-817d-0dbce92c0010",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1d2f-817d-0daee4d90000",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1d2f-817d-0db0ef460004",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0e-1632-817d-0e56bdbb0000",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0e-17ac-817d-0e0830e90000",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0e-1806-817d-0e1878220000",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0e-1999-817d-0eee57dc0000",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0e-1999-817d-0ef1ce690004",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0f-19a7-817d-0f0a0fc60000",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0f-19a7-817d-0f0ef1e40004",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0f-19a7-817d-0f0fb0840008",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "0a19372d-7d11-140d-817d-11e46c7b0000",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "c0a90105-7d12-1bd9-817d-131fbd750001",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        },
+        {
+          "suiteItemId": "c0a90105-7d12-1eab-817d-125f83310000",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0d-1603-817d-0d884e130006",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0d-1603-817d-0d8853480007",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": null,
+          "status": "Initiated"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1603-817d-0d8855e40008",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "Initiated"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0d-1603-817d-0d8858dd0009",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0d-1603-817d-0d886282000a",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "Initiated"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1603-817d-0d8865ff000b",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "Initiated"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0d-1843-817d-0db89ebf0001",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0d-1843-817d-0db8a5cc0002",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1843-817d-0db8a8960003",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0d-1843-817d-0dba605b0009",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0d-1843-817d-0dba64e9000a",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1843-817d-0dba6785000b",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0d-1843-817d-0dbbf829000d",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0d-1843-817d-0dbbfcce000e",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1843-817d-0dbbff74000f",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0d-1843-817d-0dbceb770011",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0d-1843-817d-0dbcf06c0012",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1843-817d-0dbcf2ed0013",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0d-1d2f-817d-0daee74a0001",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0d-1d2f-817d-0daeebe10002",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1d2f-817d-0daeee6f0003",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0d-1d2f-817d-0db0f2000005",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0d-1d2f-817d-0db0f6f40006",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1d2f-817d-0db0f9dc0007",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0d-1f93-817d-0d8ffd920000",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0d-1f93-817d-0d90062b0001",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": null,
+          "status": ""
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1f93-817d-0d9009730002",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": ""
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0d-1f93-817d-0d900d270003",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0d-1f93-817d-0d9013430004",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": ""
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0d-1f93-817d-0d90164e0005",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": ""
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0e-1632-817d-0e56c0120001",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0e-1632-817d-0e56c5220002",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0e-1632-817d-0e56c7d40003",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0e-17ac-817d-0e0836830001",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0e-17ac-817d-0e085cff0002",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0e-17ac-817d-0e0864840003",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0e-1806-817d-0e187aa50001",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0e-1806-817d-0e187fc80002",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0e-1806-817d-0e18825c0003",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0e-1999-817d-0eee5a390001",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0e-1999-817d-0eee5ebe0002",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0e-1999-817d-0eee610e0003",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0e-1999-817d-0ef1d1420005",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0e-1999-817d-0ef1d7d50006",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0e-1999-817d-0ef1da6f0007",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0f-141f-817d-0f25f2fa0000",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "9",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0f-141f-817d-0f25f9d30001",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0f-141f-817d-0f25fc240002",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0f-19a7-817d-0f0a12600001",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0f-19a7-817d-0f0a16e90002",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0f-19a7-817d-0f0a197b0003",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0f-19a7-817d-0f0ef4310005",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0f-19a7-817d-0f0ef8c00006",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0f-19a7-817d-0f0efb160007",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a1410f0-7d0f-19a7-817d-0f0fb2ae0009",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a1410f0-7d0f-19a7-817d-0f0fb6ac000a",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a1410f0-7d0f-19a7-817d-0f0fb904000b",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a19372d-7d11-140d-817d-11e46d130001",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a19372d-7d11-140d-817d-11e46d820002",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a19372d-7d11-140d-817d-11e46ddf0003",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a19372d-7d11-140d-817d-11e90ccc0004",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "2",
+      "display": 2,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a19372d-7d11-140d-817d-11e90cde0005",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a19372d-7d11-140d-817d-11e90ce10006",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a19372d-7d11-140d-817d-1212d0c00007",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "2",
+      "display": 2,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a19372d-7d11-140d-817d-1212d0c20008",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a19372d-7d11-140d-817d-1212d0c20009",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a19372d-7d12-11fd-817d-12229bda0000",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "2",
+      "display": 2,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a19372d-7d12-11fd-817d-12229c000001",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a19372d-7d12-11fd-817d-12229c000002",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a19372d-7d12-11fd-817d-122343f50003",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "RECEIVED",
+      "display": 1,
+      "type": 1,
+      "items": [
+        {
+          "suiteItemId": "0a19372d-7d12-11fd-817d-122343f60004",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a19372d-7d12-11fd-817d-122343f60005",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a19372d-7d12-11fd-817d-1223b03b0006",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "RECEIVED",
+      "display": 1,
+      "type": 1,
+      "items": [
+        {
+          "suiteItemId": "0a19372d-7d12-11fd-817d-1223b03c0007",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a19372d-7d12-11fd-817d-1223b03d0008",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a19372d-7d12-11fd-817d-1223f9870009",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "RECEIVED",
+      "display": 1,
+      "type": 1,
+      "items": [
+        {
+          "suiteItemId": "0a19372d-7d12-11fd-817d-1223f987000a",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a19372d-7d12-11fd-817d-1223f988000b",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a19372d-7d12-1e9a-817d-121f63ee0000",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "2",
+      "display": 2,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a19372d-7d12-1e9a-817d-121f64080001",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a19372d-7d12-1e9a-817d-121f64090002",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a19372d-7d12-1e9a-817d-121fca670003",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "2",
+      "display": 2,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a19372d-7d12-1e9a-817d-121fca670004",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a19372d-7d12-1e9a-817d-121fca680005",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "0a19372d-7d12-1e9a-817d-121fec670006",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "2",
+      "display": 2,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "0a19372d-7d12-1e9a-817d-121fec670007",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "0a19372d-7d12-1e9a-817d-121fec680008",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "c0a90105-7d12-1bd9-817d-131fbd780002",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "c0a90105-7d12-1bd9-817d-131fbd880003",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "c0a90105-7d12-1bd9-817d-131fbd8b0004",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "c0a90105-7d12-1eab-817d-125f838c0001",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "1",
+      "display": 1,
+      "type": 2,
+      "items": [
+        {
+          "suiteItemId": "c0a90105-7d12-1eab-817d-125f83a30002",
+          "groupId": "0a14494e-79ea-1ff3-8179-f029e0a0000c",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "c0a90105-7d12-1eab-817d-125f83b20003",
+          "groupId": "0a14494e-79ea-1ff3-8179-f02a74cd000d",
+          "message": null,
+          "transNo": null,
+          "status": "2"
+        }
+      ]
+    },
+    {
+      "suiteId": "c0a90105-7d12-1eab-817d-126589eb0004",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "RECEIVED",
+      "display": 1,
+      "type": 1,
+      "items": [
+        {
+          "suiteItemId": "c0a90105-7d12-1eab-817d-126589ec0005",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "c0a90105-7d12-1eab-817d-126589ec0006",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "suiteId": "c0a90105-7d12-1eab-817d-12a13df80019",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "Completed",
+      "display": 1,
+      "type": 1,
+      "items": [
+        {
+          "suiteItemId": "c0a90105-7d12-1eab-817d-12a13dfa001a",
+          "groupId": "c0a90105-7771-13a2-8177-722f7b0d00d6",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "c0a90105-7d12-1eab-817d-12a13dfd001b",
+          "groupId": "0a19ca81-7b4d-1d6f-817b-53279d5c0006",
+          "message": null,
+          "transNo": null,
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "suiteId": "c0a90105-7d12-1eab-817d-12f531f50020",
+      "userId": "MOB-01ebebd7-57e4-12e8-876f-f4f4e8cc60f0",
+      "status": "RECEIVED",
+      "display": 1,
+      "type": 1,
+      "items": [
+        {
+          "suiteItemId": "c0a90105-7d12-1eab-817d-12f531f70021",
+          "groupId": "0a14494e-79ea-1ff3-8179-eb5a34480007",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        },
+        {
+          "suiteItemId": "c0a90105-7d12-1eab-817d-12f531f70022",
+          "groupId": "0a14494e-79ea-1ff3-8179-ee87115f000a",
+          "message": null,
+          "transNo": null,
+          "status": "1"
+        }
+      ]
+    }
+  ]
