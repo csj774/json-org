@@ -1,0 +1,20 @@
+[
+{
+ key:"Name",
+ value:"Keerti Kumar",
+ group:"Group",
+ grpvalue:"Reliance Jio"
+},
+{
+ key:"Title",
+ value:"Senior Consultant",
+ group:"Sub Group",
+ grpvalue:"HR"
+},
+{
+ key:"Role",
+ value:"Admin",
+ group:"",
+ grpvalue:""
+}
+]
