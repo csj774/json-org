@@ -1,20 +1,44 @@
 [
 {
- key:"Name",
- value:"Keerti Kumar",
- group:"Group",
- grpvalue:"Reliance Jio"
+ "key":"Name",
+ "value":"Keerti Kumar",
+ "group":"Group",
+ "grpvalue":"Reliance Jio",
+ "rilmail":"Keerthi.kumar@ril.com",
+ "gmail":"",
+ "namemail":"",
+ "status1":"Pending",
+ "status2":"",
+ "status3":"",
+ "phone":"8754465763",
+ "status4":"Pending"
 },
 {
- key:"Title",
- value:"Senior Consultant",
- group:"Sub Group",
- grpvalue:"HR"
+ "key":"Title",
+ "value":"Senior Consultant",
+ "group":"Sub Group",
+ "grpvalue":"HR",
+ "rilmail":"",
+ "namemail":"",
+ "gmail":"Keerthi.kumar@gmail.com",
+ "status1":"",
+ "status2":"Approved",
+ "status3":"",
+ "phone":"",
+ "status4":""
 },
 {
- key:"Role",
- value:"Admin",
- group:"",
- grpvalue:""
+ "key":"Role",
+ "value":"Admin",
+ "group":"",
+ "grpvalue":"",
+ "rilmail":"",
+ "gmail":"",
+ "namemail":"Keerthi@gmail.com",
+ "status1":"",
+ "status2":"",
+ "status3":"Rejected",
+ "phone":"",
+ "status4":""
 }
 ]
