@@ -9,7 +9,7 @@
  "status":"Pending",
  "phone":"8754465763",
  "status2":"Pending",
- "img":"YICON"
+ "img":"YICON.svg"
 },
 {
   "id":"1",
@@ -21,7 +21,7 @@
  "status":"Approved",
  "phone":"",
  "status2":"",
- "img":"RICON"
+ "img":"RICON.svg"
 },
 {
  "id":"2",
@@ -33,6 +33,6 @@
  "status":"Rejected",
  "phone":"",
  "status2":"",
- "img":"GICON"
+ "img":"GICON.svg"
 }
 ]
