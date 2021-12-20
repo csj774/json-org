@@ -1,0 +1,38 @@
+[
+{
+ "id":"0",
+ "key":"Name",
+ "value":"Keerti Kumar",
+ "group":"Group",
+ "grpvalue":"Reliance Jio",
+ "mail":"Keerthi.kumar@ril.com",
+ "status":"Pending",
+ "phone":"8754465763",
+ "status2":"Pending",
+ "image":"YICON"
+},
+{
+  "id":"1",
+ "key":"Title",
+ "value":"Senior Consultant",
+ "group":"Sub Group",
+ "grpvalue":"HR",
+ "mail":"Keerthi.kumar@gmail.com",
+ "status":"Approved",
+ "phone":"",
+ "status2":"",
+ "image":"RICON"
+},
+{
+ "id":"2",
+ "key":"Role",
+ "value":"Admin",
+ "group":"",
+ "grpvalue":"",
+ "mail":"Keerthi@gmail.com",
+ "status":"Rejected",
+ "phone":"",
+ "status2":"",
+ "image":"GICON"
+}
+]
