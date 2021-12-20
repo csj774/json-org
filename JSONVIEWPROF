@@ -21,7 +21,7 @@
  "status":"Approved",
  "phone":"",
  "status2":"",
- "image":"RICON"
+ "image":"RICON.svg"
 },
 {
  "id":"2",
@@ -33,6 +33,6 @@
  "status":"Rejected",
  "phone":"",
  "status2":"",
- "image":"GICON"
+ "image":"GICON.svg"
 }
 ]
