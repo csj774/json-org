@@ -1,10 +1,10 @@
 [
 {
  "id":"0",
- "key":"Name",
+ "key":"Enter Name",
  "value":"Keerti Kumar",
- "group":"Group",
- "grpvalue":"Reliance Jio",
+ "group":"Enter Title",
+ "grpvalue":"Senior Consultant",
  "mail":"Keerthi.kumar@ril.com",
  "status":"Pending",
  "phone":"8754465763",
@@ -13,10 +13,10 @@
 },
 {
   "id":"1",
- "key":"Title",
- "value":"Senior Consultant",
- "group":"Sub Group",
- "grpvalue":"HR",
+ "key":"Assigned to",
+ "value":"Jio Estonia",
+ "group":"",
+ "grpvalue":"",
  "mail":"Keerthi.kumar@gmail.com",
  "status":"Approved",
  "phone":"",
@@ -25,7 +25,7 @@
 },
 {
  "id":"2",
- "key":"Role",
+ "key":"Assign a Role",
  "value":"Admin",
  "group":"",
  "grpvalue":"",
