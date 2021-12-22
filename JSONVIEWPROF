@@ -31,9 +31,33 @@
  "grpvalue":"",
  "mail":"Keerthi@gmail.com",
  "status":"Rejected",
- "phone":"",
- "status2":"",
+ "phone":"7643123467",
+ "status2":"Pending",
+ "image":"RICON.svg",
+ "assigntitle":"",
+ "assigndata":""
+},
+{
+ "id":"3",
+ "key":"",
+ "value":"",
+ "mail":"Keerthi123.kumar@ril.com",
+ "status":"Approved",
+ "phone":"8754468743",
+ "status2":"Rejected",
  "image":"YICON.svg",
+ "assigntitle":"",
+ "assigndata":""
+},
+{
+ "id":"4",
+ "key":"",
+ "value":"",
+ "mail":"Keerthi45.kumar@ril.com",
+ "status":"Pending",
+ "phone":"8754464356",
+ "status2":"Pending",
+ "image":"RICON.svg",
  "assigntitle":"",
  "assigndata":""
 }
