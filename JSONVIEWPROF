@@ -60,29 +60,5 @@
  "image":"RICON.svg",
  "assigntitle":"",
  "assigndata":""
-},
-{
- "id":"5",
- "key":"",
- "value":"",
- "mail":"Keerti23.kumar@ril.com",
- "status":"Pending",
- "phone":"8754467327",
- "status2":"Pending",
- "image":"RICON.svg",
- "assigntitle":"",
- "assigndata":""
-},
-{
- "id":"6",
- "key":"",
- "value":"",
- "mail":"Keerti23@gmail.com",
- "status":"Rejected",
- "phone":"9758464396",
- "status2":"Pending",
- "image":"YICON.svg",
- "assigntitle":"",
- "assigndata":""
 }
 ]
