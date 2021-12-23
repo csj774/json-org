@@ -7,7 +7,7 @@
  "status":"Pending",
  "phone":"8754465763",
  "status2":"Pending",
- "image":"RICON",
+ "image":"RICON.svg",
  "assigntitle":"Assigned to",
  "assigndata":"JioEstonia > JioPlatforms > UI/UX > Visual Design"
 },
@@ -19,7 +19,7 @@
  "status":"Approved",
  "phone":"8928525013",
  "status2":"Approved",
- "image":"GICON",
+ "image":"GICON.svg",
  "assigntitle":"Assigned Role",
  "assigndata":"Group Manager"
 },
@@ -33,7 +33,7 @@
  "status":"Rejected",
  "phone":"7643123467",
  "status2":"Pending",
- "image":"YICON",
+ "image":"YICON.svg",
  "assigntitle":"",
  "assigndata":""
 },
@@ -45,7 +45,7 @@
  "status":"Approved",
  "phone":"8754468743",
  "status2":"Rejected",
- "image":"GICON",
+ "image":"GICON.svg",
  "assigntitle":"",
  "assigndata":""
 },
@@ -57,7 +57,7 @@
  "status":"Pending",
  "phone":"8754464356",
  "status2":"Pending",
- "image":"RICON",
+ "image":"RICON.svg",
  "assigntitle":"",
  "assigndata":""
 }
