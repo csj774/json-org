@@ -10,10 +10,7 @@
  "image":"RICON.svg",
  "assigntitle":"Assigned to",
  "assigndata":"JioEstonia > JioPlatforms > UI/UX > Visual Design",
- "company":"JioEstonia",
- "subcomp","JioPlatforms",
- "workArea":"UI/UX",
- "workType":"Visual Design"
+ "company":"JioEstonia"
 },
 {
   "id":"1",
@@ -26,10 +23,7 @@
  "image":"GICON.svg",
  "assigntitle":"Assigned Role",
  "assigndata":"Group Manager",
-  "company":"",
- "subcomp","",
- "workArea":"",
- "workType":""
+ "company":"JioPlatforms"
 },
 {
  "id":"2",
@@ -44,10 +38,7 @@
  "image":"YICON.svg",
  "assigntitle":"",
  "assigndata":"",
-  "company":"",
- "subcomp","",
- "workArea":"",
- "workType":""
+ "company":"UI/UX"
 },
 {
  "id":"3",
@@ -60,10 +51,7 @@
  "image":"GICON.svg",
  "assigntitle":"",
  "assigndata":"",
- "company":"",
- "subcomp","",
- "workArea":"",
- "workType":""
+ "company":"Visual Design"
 },
 {
  "id":"4",
@@ -76,9 +64,6 @@
  "image":"RICON.svg",
  "assigntitle":"",
  "assigndata":"",
-  "company":"",
- "subcomp","",
- "workArea":"",
- "workType":""
+  "company":""
 }
 ]
