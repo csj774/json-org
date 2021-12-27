@@ -25,7 +25,11 @@
  "status2":"Approved",
  "image":"GICON.svg",
  "assigntitle":"Assigned Role",
- "assigndata":"Group Manager"
+ "assigndata":"Group Manager",
+  "company":"",
+ "subcompany":"",
+ "workarea":"",
+ "workType":""
 },
 {
  "id":"2",
@@ -39,7 +43,11 @@
  "status2":"Pending",
  "image":"YICON.svg",
  "assigntitle":"",
- "assigndata":""
+ "assigndata":"",
+  "company":"",
+ "subcompany":"",
+ "workarea":"",
+ "workType":""
 },
 {
  "id":"3",
@@ -51,7 +59,11 @@
  "status2":"Rejected",
  "image":"GICON.svg",
  "assigntitle":"",
- "assigndata":""
+ "assigndata":"",
+  "company":"",
+ "subcompany":"",
+ "workarea":"",
+ "workType":""
 },
 {
  "id":"4",
@@ -63,6 +75,10 @@
  "status2":"Pending",
  "image":"RICON.svg",
  "assigntitle":"",
- "assigndata":""
+ "assigndata":"",
+  "company":"",
+ "subcompany":"",
+ "workarea":"",
+ "workType":""
 }
 ]
