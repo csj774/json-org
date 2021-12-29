@@ -1,0 +1,69 @@
+[
+{
+ "id":"0",
+ "key":"Name",
+ "value":"Keerti Kumar",
+ "mail":"Keerthi.kumar123456899786554334444444444444444444444444444@ril.com",
+ "status":"Pending",
+ "phone":"8754465763",
+ "status2":"Pending",
+ "image":"RICON.svg",
+ "assigntitle":"Assigned to",
+ "assigndata":"JioEstonia > JioPlatforms > UI/UX > Visual Design",
+ "company":"JioEstonia"
+},
+{
+  "id":"1",
+ "key":"Title",
+ "value":"Consultant",
+ "mail":"Keerthi.kumar@gmail.com",
+ "status":"Approved",
+ "phone":"8928525013",
+ "status2":"Approved",
+ "image":"GICON.svg",
+ "assigntitle":"Assigned Role",
+ "assigndata":"Group Manager",
+ "company":"JioPlatforms"
+},
+{
+ "id":"2",
+ "key":"",
+ "value":"",
+ "group":"",
+ "grpvalue":"",
+ "mail":"Keerthi@gmail.com",
+ "status":"Rejected",
+ "phone":"7643123467",
+ "status2":"Pending",
+ "image":"YICON.svg",
+ "assigntitle":"",
+ "assigndata":"",
+ "company":"UI/UX"
+},
+{
+ "id":"3",
+ "key":"",
+ "value":"",
+ "mail":"Keerthi123.kumar@ril.com",
+ "status":"Approved",
+ "phone":"8754468743",
+ "status2":"Rejected",
+ "image":"GICON.svg",
+ "assigntitle":"",
+ "assigndata":"",
+ "company":"Visual Design"
+},
+{
+ "id":"4",
+ "key":"",
+ "value":"",
+ "mail":"Keerthi45.kumar@ril.com",
+ "status":"Pending",
+ "phone":"8754464356",
+ "status2":"Pending",
+ "image":"RICON.svg",
+ "assigntitle":"",
+ "assigndata":"",
+  "company":""
+}
+]
