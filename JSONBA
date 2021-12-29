@@ -9,7 +9,8 @@
  "status2":"Pending",
  "image":"RICON.svg",
  "assigntitle":"Assigned to",
- "assigndata":"JioEstonia > JioPlatforms > UI/UX > Visual Design"
+ "assigndata":"JioEstonia > JioPlatforms > UI/UX > Visual Design",
+  "company":"JioEstonia"
 },
 {
   "id":"1",
@@ -21,7 +22,8 @@
  "status2":"Approved",
  "image":"GICON.svg",
  "assigntitle":"Assigned Role",
- "assigndata":"Group Manager"
+ "assigndata":"Group Manager",
+  "company":"JioPlatforms"
 },
 {
  "id":"2",
@@ -35,7 +37,8 @@
  "status2":"Pending",
  "image":"YICON.svg",
  "assigntitle":"",
- "assigndata":""
+ "assigndata":"",
+ "company":"UI/UX"
 },
 {
  "id":"3",
@@ -47,7 +50,8 @@
  "status2":"Rejected",
  "image":"GICON.svg",
  "assigntitle":"",
- "assigndata":""
+ "assigndata":"",
+ "company":"Visual Design"
 },
 {
  "id":"4",
@@ -59,6 +63,7 @@
  "status2":"Pending",
  "image":"RICON.svg",
  "assigntitle":"",
- "assigndata":""
+ "assigndata":"",
+ "company":""
 }
 ]
