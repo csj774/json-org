@@ -1,0 +1,52 @@
+{
+ "neworg":[
+  {
+    "id":"4",
+    "name":"Jio Platforms Ltd",
+    "newarray":[
+      {
+        "id":"0",
+        "name":"Legal"
+      },
+      {
+        "id":"1",
+        "name":"IT"
+      },
+      {
+        "id":"2",
+        "name":"Procurement",
+        "divarray":[
+          {
+            "id":"13",
+            "name":"Services & Ops Procurement",
+          },
+          {
+            "id":"14",
+            "name":"IT Procurement",
+          },
+          {
+            "id":"15",
+            "name":"Goods Procurement",
+          },
+        ]
+      },
+      {
+        "id":"3",
+        "name":"HR"
+      }
+    ]
+  },
+  {
+    "id":"5",
+    "name":"Jio Payments Bank",
+  },
+  {
+    "id":"6",
+    "name":"Jio Saavn",
+  },
+  {
+    "id":"7",
+    "name":"Jio Mart",
+  }
+]
+}
