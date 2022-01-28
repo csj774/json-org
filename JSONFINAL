@@ -4,7 +4,15 @@
   "title":"Assistant Manager",
   "company":[{
   "name":"Jio Platforms Ltd",
-  "subcomp":[]
+  "subcomp":[{
+  "subname":"Jio retail",
+  "subarr":[{
+  "subarrname":"Jio stores",
+  "subgrp":[{
+  "subgrpname":"Jio"
+  }]
+  }]
+  }]
   }]
 },
 {
@@ -24,7 +32,8 @@
   "identityId":"OUI-01ec00fb-5c7b-1048-aad7-7601cd1a747d",
   "title":"Senior Engineer",
   "company":[{"name":"Reliance",
-  "subcomp":[{"subname":"JPL"
+  "subcomp":[{"subname":"JPL",
+  "subarr":[]
   }]
   }
   ]
@@ -43,7 +52,10 @@
   "company":[{
   "name":"Jio",
   "subcomp":[{
-  "subname":"Jio Saavn"
+  "subname":"Jio Saavn",
+  "subarr":[{"subarrname":"Ajio",
+  "subgrp":[]
+  }]
   }]
   }]
 }
