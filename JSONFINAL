@@ -5,11 +5,11 @@
   "company":[{
   "name":"Jio Platforms Ltd",
   "subcomp":[{
-  "subname":"Jio retail",
+  "name":"Jio retail",
   "subarr":[{
-  "subarrname":"Jio stores",
+  "name":"Jio stores",
   "subgrp":[{
-  "subgrpname":"Jio"
+  "name":"Jio"
   }]
   }]
   }]
@@ -32,7 +32,7 @@
   "identityId":"OUI-01ec00fb-5c7b-1048-aad7-7601cd1a747d",
   "title":"Senior Engineer",
   "company":[{"name":"Reliance",
-  "subcomp":[{"subname":"JPL",
+  "subcomp":[{"name":"JPL",
   "subarr":[]
   }]
   }
@@ -52,8 +52,8 @@
   "company":[{
   "name":"Jio",
   "subcomp":[{
-  "subname":"Jio Saavn",
-  "subarr":[{"subarrname":"Ajio",
+  "name":"Jio Saavn",
+  "subarr":[{"name":"Ajio",
   "subgrp":[]
   }]
   }]
